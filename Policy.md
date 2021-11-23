@@ -63,3 +63,7 @@ The application stores application settings on your device. These relate to the 
 The application uses the device camera and flash to capture a rapid sequence of images. These should be images of your finger. These images are processed to calculate your heart rate, then discarded. 
 
 ---
+
+Provided by JacksonSoft 2021
+
+---
